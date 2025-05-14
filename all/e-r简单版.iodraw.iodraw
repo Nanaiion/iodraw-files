@@ -11,7 +11,7 @@
           <mxGeometry x="140" y="260" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-3" value="地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="210" y="140" width="50" height="40" as="geometry" />
+          <mxGeometry x="180" y="130" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-5" value="健康信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="210" y="410" width="70" height="40" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="540" y="90" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-9" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="70" height="40" as="geometry" />
+          <mxGeometry x="250" y="200" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
