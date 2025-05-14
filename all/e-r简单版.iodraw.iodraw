@@ -110,7 +110,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="339" y="90" as="sourcePoint" />
             <mxPoint x="319" y="-46" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="738" y="101" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-38" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DulO6MLwDZZ3L4ABhrX3-37">
