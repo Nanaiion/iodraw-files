@@ -8,7 +8,7 @@
           <mxGeometry x="340" y="210" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-2" value="宠物" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="50" height="40" as="geometry" />
+          <mxGeometry x="140" y="260" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-3" value="地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="50" height="40" as="geometry" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-8" value="动态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="540" y="90" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DulO6MLwDZZ3L4ABhrX3-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
