@@ -339,7 +339,7 @@
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="239" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;" parent="1" source="78" target="81" edge="1" z="0">
+        <mxCell id="239" style="endArrow=none;html=1;strokeColor=#666666;strokeWidth=1;fontSize=14;fontFamily=宋体;fontColor=#333333;editable=1;labelBackgroundColor=none;labelPosition=right;align=left;spacingLeft=5;verticalAlign=middle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="143" target="81" edge="1" z="0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
           </mxGeometry>
@@ -1046,9 +1046,6 @@
         </mxCell>
         <mxCell id="86" value="预约状态" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="164" vertex="1" z="2">
           <mxGeometry x="62.17662350913713" y="62.17662350913716" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kxkHAmqW66LmOVsG6CO4-323" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="164" source="78" target="81">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="78" value="服务预约" style="rounded=1;arcSize=13;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="164" vertex="1" z="3">
           <mxGeometry x="154" y="159" width="120" height="40" as="geometry" />
