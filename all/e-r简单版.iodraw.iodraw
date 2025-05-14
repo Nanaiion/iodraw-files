@@ -58,6 +58,9 @@
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-19" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="340" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="DulO6MLwDZZ3L4ABhrX3-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DulO6MLwDZZ3L4ABhrX3-20" target="DulO6MLwDZZ3L4ABhrX3-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-20" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="218" y="197" width="60" height="40" as="geometry" />
         </mxCell>
