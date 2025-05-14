@@ -1243,7 +1243,7 @@
           <mxGeometry x="-1527.624379348973" y="-656.0259063729432" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="143" value="关联" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="1">
-          <mxGeometry x="-815.0248595435081" y="-351.5791125866444" width="40" height="40" as="geometry" />
+          <mxGeometry x="-815.02" y="-351.58" width="92.02" height="40" as="geometry" />
         </mxCell>
         <mxCell id="144" value="关联" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="1">
           <mxGeometry x="-1494.738525390625" y="-402.307861328125" width="40" height="40" as="geometry" />
@@ -1271,9 +1271,6 @@
         </mxCell>
         <mxCell id="152" value="关联" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffff;fontColor=#333333;fontSize=14;fontFamily=宋体;" parent="1" vertex="1" z="1">
           <mxGeometry x="-972.4162566661835" y="58.053802490234375" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="kxkHAmqW66LmOVsG6CO4-322" value="服务预约表" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Garamond;" vertex="1" parent="1">
-          <mxGeometry x="-719.27" y="29" width="122" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
