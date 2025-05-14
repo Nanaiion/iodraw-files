@@ -23,7 +23,7 @@
           <mxGeometry x="540" y="281" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-8" value="动态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="119" y="233" width="50" height="40" as="geometry" />
+          <mxGeometry x="112" y="238" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-9" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="630" y="90" width="60" height="40" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="197" y="238.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-16" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="197" y="181.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="197" y="189" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-17" value="关注" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="197" y="298.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="197" y="294" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-18" value="预约" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="406" y="281" width="60" height="40" as="geometry" />
