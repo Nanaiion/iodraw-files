@@ -32,16 +32,16 @@
           <mxGeometry x="596" y="318" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-11" value="订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="364" y="260" width="60" height="40" as="geometry" />
+          <mxGeometry x="350" y="45" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-12" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="424" y="440" width="60" height="40" as="geometry" />
+          <mxGeometry x="410" y="225" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-13" value="加购物车" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="381" y="373" width="100" height="50" as="geometry" />
+          <mxGeometry x="367" y="158" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-14" value="评价" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="367" y="318" width="60" height="40" as="geometry" />
+          <mxGeometry x="353" y="103" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-15" value="评论" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="213" y="331" width="60" height="40" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="213" y="273" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-17" value="关注" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="386" width="60" height="40" as="geometry" />
+          <mxGeometry x="213" y="383" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-18" value="预约" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="339" y="471" width="60" height="40" as="geometry" />
