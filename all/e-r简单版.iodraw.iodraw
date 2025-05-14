@@ -35,10 +35,10 @@
           <mxGeometry x="406" y="80" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-12" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="406" y="266" width="60" height="40" as="geometry" />
+          <mxGeometry x="406" y="241" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-13" value="加购物车" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="386" y="192" width="100" height="50" as="geometry" />
+          <mxGeometry x="386" y="179" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-14" value="评价" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="406" y="130" width="60" height="40" as="geometry" />
