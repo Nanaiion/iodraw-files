@@ -20,7 +20,7 @@
           <mxGeometry x="540" y="139" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-7" value="服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="561" y="390" width="50" height="40" as="geometry" />
+          <mxGeometry x="540" y="281" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-8" value="动态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="291" width="50" height="40" as="geometry" />
@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-29" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="632" y="257" width="60" height="40" as="geometry" />
+          <mxGeometry x="632" y="238" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-30" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="672" y="338" width="60" height="40" as="geometry" />
@@ -435,6 +435,9 @@
           <mxGeometry x="-0.411" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DulO6MLwDZZ3L4ABhrX3-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.178;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DulO6MLwDZZ3L4ABhrX3-30" target="DulO6MLwDZZ3L4ABhrX3-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
