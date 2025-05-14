@@ -29,16 +29,16 @@
           <mxGeometry x="669" y="292" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-10" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="560" y="530" width="60" height="40" as="geometry" />
+          <mxGeometry x="613" y="389" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-11" value="订单" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="364" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-12" value="收藏" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="680" y="380" width="60" height="40" as="geometry" />
+          <mxGeometry x="424" y="440" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-13" value="加购物车" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="340" width="100" height="50" as="geometry" />
+          <mxGeometry x="381" y="373" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-14" value="评价" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="367" y="318" width="60" height="40" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="220" y="265" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-23" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="755" y="455" width="50" height="40" as="geometry" />
+          <mxGeometry x="781" y="286" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DulO6MLwDZZ3L4ABhrX3-1" target="DulO6MLwDZZ3L4ABhrX3-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
