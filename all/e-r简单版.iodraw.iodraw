@@ -8,10 +8,10 @@
           <mxGeometry x="300" y="250" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-2" value="宠物" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="147" y="286" width="50" height="40" as="geometry" />
+          <mxGeometry x="142" y="200" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-3" value="地址" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="149" y="140" width="50" height="40" as="geometry" />
+          <mxGeometry x="142" y="86" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-5" value="健康信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="139" y="429" width="70" height="40" as="geometry" />
@@ -74,7 +74,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-29" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="606" y="328" width="60" height="40" as="geometry" />
+          <mxGeometry x="573" y="477" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
