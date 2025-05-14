@@ -213,7 +213,7 @@
             <mxPoint x="420" y="370" as="sourcePoint" />
             <mxPoint x="400" y="234" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="303" />
+              <mxPoint x="340" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -411,7 +411,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-93" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="430.27" y="47.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="430.27" y="40.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DulO6MLwDZZ3L4ABhrX3-94" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DulO6MLwDZZ3L4ABhrX3-1" target="DulO6MLwDZZ3L4ABhrX3-93">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
